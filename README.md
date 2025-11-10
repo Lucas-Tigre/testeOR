@@ -4,36 +4,6 @@ Bem-vindo ao Universo de Partículas! Este é um jogo de sobrevivência espacial
 
 ## 🚀 Começando
 
-Para executar o projeto localmente, siga estes passos:
-
-### Pré-requisitos
-
-- [Node.js](https://nodejs.org/) (versão 14 ou superior)
-- [npm](https://www.npmjs.com/) (normalmente vem com o Node.js)
-
-### Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/universo-de-particulas.git
-   ```
-2. Navegue para o diretório do projeto:
-   ```bash
-   cd universo-de-particulas
-   ```
-3. Instale as dependências:
-   ```bash
-   npm install
-   ```
-
-### Executando o Jogo
-
-1. Inicie o servidor de desenvolvimento:
-   ```bash
-   npm start
-   ```
-2. Abra o seu navegador e vá para `http://localhost:8080`.
-
 ## 🎮 Como Jogar
 
 O controle do jogo é simples e intuitivo:
